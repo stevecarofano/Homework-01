@@ -21,12 +21,17 @@
 ## Installation
 
 Follow these steps to create a local copy of this repository so you can edit too!
-    1. Navigate to https://github.com/stevecarofano/Homework-01
-    2. Find the green **Code** button on the right-hand side, click it and copy the repository URL with HTTPS or SSH keys
-    3. Open the command line or terminal on your machine and navigate to the destination you want the files to live in
-    4. Type git clone _pasteURLhere_
-    5. Hit Enter
-    6. Congratulations! You now have a local copy of this repository and you can make your own changes to it!
+1. Navigate to https://github.com/stevecarofano/Homework-01
+    
+2. Find the green **Code** button on the right-hand side, click it and copy the repository URL with HTTPS or SSH keys
+    
+3. Open the command line or terminal on your machine and navigate to the destination you want the files to live in
+    
+4. Type git clone _pasteURLhere_
+    
+5. Hit Enter
+    
+6. Congratulations! You now have a local copy of this repository and you can make your own changes to it!
 
 ## Usage
 
