@@ -33,15 +33,13 @@ Follow these steps to create a local copy of this repository so you can edit too
 There isn't much meat on this webpage yet, but you can use the nav bar at the top of the page to jump-to any section of the page and read more about **Horiseon**
 
 Find the nav bar at the top of the page:
-    ```md
     ![navBarImage](Assets/images/nav-bar.png)
-    ```
+    
 Then click any of the nav links to jump-to that section of the webpage!
 
 Let's click the "Search Engine Optimization" link and see where it takes us
-    ```md
     ![navSEO](Assets/images/SEO.png)
-    ```
+    
 As you can see we are now at the section of the page containing information about **Horiseon's** search engine optimization
 
 Use any of the links in the nav bar to jump-to your desired content!
